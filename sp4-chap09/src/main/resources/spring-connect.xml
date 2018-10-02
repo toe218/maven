@@ -14,6 +14,11 @@
 	<property name="user" value="smrit"></property>
 	<property name="password" value="oracle"></property>
 
+
+	<!--  com.mchange.v2.c3p0.ComboPooledDataSource dataSource = 
+			new com.mchange.v2.c3p0.ComboPooledDataSource ();
+			dataSource.setDriverClass("oracle.jdbc.driver.OracleDriver"); -->
+
  </bean>
 
 </beans>
